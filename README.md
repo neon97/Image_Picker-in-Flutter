@@ -19,7 +19,7 @@ At last when you debug the code you will build something like this...
 Well i have created the source from gallery you can just change the source from gallery to camera
 And enjoy getting the images from the Camera of your device eaily....
  <h3>Images</h3> 
-<img src="https://github.com/neon97/Image_Picker-in-Flutter/blob/master/Screenshots/main.jpg?raw=true"  width="200" >
+<img src="https://github.com/neon97/Image_Picker-in-Flutter/blob/master/Screenshots/main.jpg?raw=true" >
 </img>
 <br>
 Hope you learned something from here Enjoy Fluttering Buddies !!!!
