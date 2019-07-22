@@ -8,7 +8,7 @@ Click on the package here to get the Image_picker....
 
 Well you need to add the packages at #pubspec.yaml file as shown...
  <h3>pubspec.yaml</h3> 
-<img src=""  width="200" >
+<img src="https://github.com/neon97/Image_Picker-in-Flutter/blob/master/Screenshots/pubpspec.png?raw=true"  width="200" >
 </img>
 <br>
 After that just start Coding .....
@@ -19,17 +19,17 @@ At last when you debug the code you will build something like this...
 Well i have created the source from gallery you can just change the source from gallery to camera
 And enjoy getting the images from the Camera of your device eaily....
  <h3>Image Page</h3> 
-<img src=""  width="200" >
+<img src="https://github.com/neon97/Image_Picker-in-Flutter/blob/master/Screenshots/Screenshot_1563776865.png?raw=true"  width="200" >
 </img>
 <br>
 
  <h3>Selecting images</h3> 
-<img src=""  width="200" >
+<img src="https://github.com/neon97/Image_Picker-in-Flutter/blob/master/Screenshots/Screenshot_1563776884.png?raw=true"  width="200" >
 </img>
 <br>
 
  <h3>Image Placed</h3> 
-<img src=""  width="200" >
+<img src="https://github.com/neon97/Image_Picker-in-Flutter/blob/master/Screenshots/Screenshot_1563776850.png?raw=true"  width="200" >
 </img>
 <br>
 
